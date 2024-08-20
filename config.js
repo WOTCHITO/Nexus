@@ -31,7 +31,7 @@ global.prems = []
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = ` ✎𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝`
-global.author = `♾━━━━━━━━\n⇝͟͞ ۵̤͟𝚳̶̤𝚵̅𝔾̈͟𝖀𝐌̶̤𝚰̅𝚴̈͟♡̵̑ ͟͞   ᷨᜳ ͦ ̵ͭ⋆\n⇝ ۵-̱̅𝐃𝖆𝒗𝖏𝖉𐝃𐋃ᶜʱⁱᵃᶯ-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝑴𝒆̤𝒈𝒖̣֟፝֯𝒎̤𝒊̣𝒏🔥̤ʙⷪᴏ͓ᷫᴛⷭ𓆪͟͞ `;
+global.author = `♾━━━━━━━━\n⇝͟͞ ۵𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 𝖑𝖔𝖇𝖔❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙❁༯`;
 global.wm = 'ꨄ𝙽𝚊𝚔𝚊𝚗𝚘 𝙱𝚘𝚝';
 global.titulowm = '✎𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝';
 global.titulowm2 = `𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝 𝚘𝚏𝚒𝚌𝚒𝚊𝚕`
