@@ -32,14 +32,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5351524614'
+global.creador = 'Wa.me/5493405480284'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5351524614'
-global.namechannel = '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐/ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸'
-global.namechannel2 = '𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁 - 𝗧𝗲𝗮𝗺'
+global.asistencia = 'Wa.me/5493405480284'
+global.namechannel = ' 𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙࿐/✰✎𝕷𝖔𝖇𝖔ꨄ'
+global.namechannel2 = ' 𝚃𝙴𝙰𝙼-𝙽𝙰𝙺𝙰𝙽𝙾 '
 global.namegrupo = '⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝝡꯭𝝣꯭𝗚꯭𝗨꯭𝗠꯭𝗜꯭𝗡'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝝡𝝣𝗚𝗨𝗠𝗜𝗡'
-global.namecomu2 = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁'
+global.namecomu = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝙽𝙰𝙺𝙰𝙽𝙾-𝙱𝙾𝚃'
+global.namecomu2 = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝙽𝙰𝙺𝙰𝙽𝙾 𝚇 𝚃𝙰𝚃𝚂𝚄𝙼𝙰𝙺𝙸'
 global.colab1 = 'Miguelon'
 global.colab2 = 'Steven'
 global.colab3 = 'Dino'
