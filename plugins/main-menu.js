@@ -191,7 +191,7 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363307382381547@newsletter',
+      newsletterJid: '120363283921434745@newsletter',
       newsletterName: '⏤͟͞𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙๛𝕺𝖋𝖈࿐/✎⋰∴⋱𝕭𝖞 𝕷𝖔𝖇𝖔',
       serverMessageId: -1,
     },
