@@ -192,12 +192,12 @@ await conn.sendMessage(
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363307382381547@newsletter',
-      newsletterName: '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐/ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸',
+      newsletterName: '⏤͟͞𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙๛𝕺𝖋𝖈࿐/✎⋰∴⋱𝕭𝖞 𝕷𝖔𝖇𝖔',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐',
+      title: '⏤͟͞ू𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙⋰⋰𝕭𝖞 𝕷𝖔𝖇𝖔✍︎࿐',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
