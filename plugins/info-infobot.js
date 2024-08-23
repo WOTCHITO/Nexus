@@ -30,14 +30,14 @@ const handler = async (m, { conn, usedPrefix }) => {
 │
 │•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 │
-│➸ *💞𝖁𝖍𝖆𝖙𝖘*
+│➸ *🪄𝖁𝖍𝖆𝖙𝖘*
 │➸ 𝕮𝖍𝖆𝖙 𝖕𝖗𝖎𝖛𝖆𝖉𝖔: *${chats.length - groups.length}*
 │➸ 𝕮𝖍𝖆𝖙 𝖉𝖊 𝖌𝖗𝖚𝖕𝖔𝖘: *${groups.length}* 
 │➸ 𝕮𝖍𝖆𝖙 𝖙𝖔𝖙𝖆𝖑𝖊𝖘: *${chats.length}* 
 │
 │•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 │
-│➸ ✎𝕹𝖆𝖐𝖆𝖓𝖔⋰✰𝕭𝖔𝖙❤️
+│➸ ✎𝐃𝐫𝐚𝐤𝐨⋰✰𝐁𝐨𝐭💎
 ╰━━━━━━･❪ ❁ ❫ ･━━━━━━❖`.trim();
   const doc = [
     "pdf",
@@ -48,9 +48,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS` },
+    document: { url: `https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW` },
     mimetype: `application/${document}`,
-    fileName: `「 𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙 」`,
+    fileName: `「 𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭 」`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
@@ -60,10 +60,10 @@ const handler = async (m, { conn, usedPrefix }) => {
 showAdAttribution: !![],
             mediaType: 0x1,
             previewType: "PHOTO",
-        title: "𝕳𝖊𝖗𝖒𝖆𝖓𝖆𝖘 𝖓𝖆𝖐𝖆𝖓𝖔",
+        title: "𝐒𝐞𝐫𝐦𝐚𝐧𝐚 𝐃𝐫𝐚𝐤𝐨",
         thumbnail: imagen10,
         renderLargerThumbnail: !![],
-        sourceUrl: "https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS",
+        sourceUrl: "https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW",
       },
     },
     caption: info,
