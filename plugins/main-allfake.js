@@ -32,14 +32,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/6a201abd66f56dc44fd27.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5493405480284'
+global.creador = 'Wa.me/584248778828'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5493405480284'
-global.namechannel = ' 𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙࿐/✰✎𝕷𝖔𝖇𝖔ꨄ'
-global.namechannel2 = ' 𝚃𝙴𝙰𝙼-𝙽𝙰𝙺𝙰𝙽𝙾 '
-global.namegrupo = '⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙'
-global.namecomu = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝙽𝙰𝙺𝙰𝙽𝙾-𝙱𝙾𝚃'
-global.namecomu2 = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝙽𝙰𝙺𝙰𝙽𝙾 𝚇 𝚃𝙰𝚃𝚂𝚄𝙼𝙰𝙺𝙸'
+global.asistencia = 'Wa.me/584248778828'
+global.namechannel = ' 𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭࿐/✰✎𝐊𝐢𝐧𝐠ꨄ'
+global.namechannel2 = ' 𝚃𝙴𝙰𝙼-𝐃𝐫𝐚𝐤𝐨 '
+global.namegrupo = '⁝̵̓ᝒ̷̸͙❧𝐃𝐫𝐚𝐤𝐨-𝕭𝖔𝖙'
+global.namecomu = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭'
+global.namecomu2 = '𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 𝐃𝐫𝐚𝐤𝐨 𝚇 𝚃𝙰𝚃𝚂𝚄𝙼𝙰𝙺𝙸'
 global.colab1 = 'Miguelon'
 global.colab2 = 'Steven'
 global.colab3 = 'Dino'
@@ -63,8 +63,8 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
 
 //Enlaces
-var grupo = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS'
-var canal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K'  
+var grupo = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'
+var canal = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'  
 var git = 'https://github.com/David-Chian' 
 var youtube = 'https://youtube.com/@davidchian4957' 
 var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
@@ -97,7 +97,7 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363283921434745@newsletter', newsletterName: "⏤͟͞ू𝕹𝖆𝖐𝖆𝖓𝖔๛✎𝕭𝖔𝖙❄︎✍︎", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363323286489957@newsletter', newsletterName: "⏤͟͞ू𝐃𝐫𝐚𝐤𝐨๛✎𝐁𝐨𝐭❄︎✍︎", serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
@@ -109,6 +109,6 @@ global.icono = [
 'https://telegra.ph/file/ca33fef3ec68946e44b38.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363283921434745@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '💞 𝕭𝖔𝖙 𝖔𝖋𝖎𝖈𝖎𝖆𝖑 𝖓𝖆𝖐𝖆𝖓𝖔ꨄ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '💫 𝐁𝐨𝐭 𝐎𝐟𝐜 𝐃𝐫𝐚𝐤𝐨ꨄ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
