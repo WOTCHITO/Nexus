@@ -2,7 +2,7 @@ let media = './src/Grupo.jpg'
 let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
     await conn.sendMessage(m.chat, { react: { text: '⚡️', key: m.key } })
-let str = `*💞 𝕲𝖗𝖚𝖕𝖔𝖘 𝖔𝖋𝖎𝖈𝖎𝖆𝖑𝖊𝖘 𝖓𝖆𝖐𝖆𝖓𝖔*
+let str = `*💞 𝐆𝐫𝐮𝐩𝐨𝐬 𝖔𝖋𝖎𝖈𝖎𝖆𝖑𝖊𝖘 𝐃𝐫𝐚𝐤𝐨*
 
    *_〾̷̸‣⃝⃨⃛⃰⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭❄︎⋰⋰𝝣⃯ᵴͦ𝛒⃨ᷫ𝛆ͨ🄲⃪⃯𝛊ᷨ𝛂⃨ͦꝆ᷽ͭ🍁⃝⃙̻⃮̋⃛⃰⁌̷̸̊͟⿻᳔̶̷̸_*
   ┃🧸❏ ${gp1}
