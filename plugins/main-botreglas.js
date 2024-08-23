@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
 
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-let yaemori = `🚩 *𝕽𝖊𝖘𝖕𝖊𝖙𝖆 𝖑𝖆𝖘 𝖗𝖊𝖌𝖑𝖆𝖘 𝖉𝖊 𝖑𝖆 𝖇𝖔𝖙 𝖓𝖆𝖐𝖆𝖓𝖔*\n
+let yaemori = `🚩 *𝕽𝖊𝖘𝖕𝖊𝖙𝖆 𝖑𝖆𝖘 𝖗𝖊𝖌𝖑𝖆𝖘 𝖉𝖊 𝖑𝖆 𝖇𝖔𝖙 𝐃𝐫𝐚𝐤𝐨*\n
 ✰ 𝕹𝖔 𝖑𝖑𝖆𝖒𝖆𝖗 𝖆𝖑𝖆 𝕭𝖔𝖙
 ✰ 𝕹𝖔 𝖍𝖆𝖈𝖊𝖗 𝖘𝖕𝖆𝖒
 ✰ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙𝖆𝖗 𝖆𝖑 𝖈𝖗𝖊𝖆𝖉𝖔𝖗 𝖘𝖎 𝖊𝖘 𝖓𝖊𝖘𝖊𝖘𝖆𝖗𝖎𝖔
