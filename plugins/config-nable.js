@@ -2,35 +2,35 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-const miniopcion = `🚩 *OPCIONES PARA GRUPOS*
+const miniopcion = `🚩 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖕𝖆𝖗𝖆 𝖑𝖔𝖘 𝖌𝖗𝖚𝖕𝖔𝖘*
 
-${usedPrefix + command} welcome
-${usedPrefix + command} detect
-${usedPrefix + command} antidelete
-${usedPrefix + command} antilink
-${usedPrefix + command} antilink2
-${usedPrefix + command} modohorny
-${usedPrefix + command} autolevelup
-${usedPrefix + command} autosticker
-${usedPrefix + command} reaction
-${usedPrefix + command} antitoxic
-${usedPrefix + command} audios
-${usedPrefix + command} modoadmin
-${usedPrefix + command} antifake
+${usedPrefix + command} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴
+${usedPrefix + command} 𝙳𝙴𝚃𝙴𝙲𝚃
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙳𝙴𝙻𝙴𝚃𝙴
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺𝟸
+${usedPrefix + command} 𝙼𝙾𝙳𝙾𝙷𝙾𝚁𝙽𝚈
+${usedPrefix + command} 𝙰𝚄𝚃𝙾𝙻𝙴𝚅𝙴𝙻𝚄𝙿
+${usedPrefix + command} 𝙰𝚄𝚃𝙾𝚂𝚃𝙸𝙲𝙺𝙴𝚁
+${usedPrefix + command} 𝚁𝙴𝙰𝙲𝚃𝙸𝙾𝙽
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝚃𝙾𝚇𝙸𝙲
+${usedPrefix + command} 𝙰𝚄𝙳𝙸𝙾𝚂
+${usedPrefix + command} 𝙼𝙾𝙳𝙾𝙰𝙳𝙼𝙸𝙽
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙵𝙰𝙺𝙴
 
-🍟 *OPCIONES PARA MI PROPIETARIO*
+💞 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖘𝖔𝖑𝖔 𝖕𝖆𝖗𝖆 𝖒𝖎 𝖕𝖗𝖔𝖕𝖎𝖊𝖙𝖆𝖗𝖎𝖔*
 
-${usedPrefix + command} public
-${usedPrefix + command} status
-${usedPrefix + command} serbot
-${usedPrefix + command} restrict
-${usedPrefix + command} autoread
-${usedPrefix + command} antillamar
-${usedPrefix + command} antispam
-${usedPrefix + command} pconly
-${usedPrefix + command} gconly
-${usedPrefix + command} antiprivado
-${usedPrefix + command} antibot`
+${usedPrefix + command} 𝙿𝚄𝙱𝙻𝙸𝙲
+${usedPrefix + command} 𝚂𝚃𝙰𝚃𝚄𝚂
+${usedPrefix + command} 𝚂𝙴𝚁𝙱𝙾𝚃
+${usedPrefix + command} 𝚁𝙴𝚂𝚃𝚁𝙸𝙽𝙲
+${usedPrefix + command} 𝙰𝚄𝚃𝙾𝚁𝙴𝙰𝙳
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙻𝙻𝙰𝙼𝙰𝚁
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝚂𝙿𝙰𝙼
+${usedPrefix + command} 𝙿𝙲𝙾𝙽𝙻𝚈
+${usedPrefix + command} 𝙶𝙲𝙾𝙽𝙻𝚈
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙿𝚁𝙸𝚅𝙰𝙳𝙾
+${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙱𝙾𝚃`
 
 const isEnable = /true|enable|(turn)?on|1/i.test(command);
 const chat = global.db.data.chats[m.chat];
