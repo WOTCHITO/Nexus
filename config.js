@@ -14,12 +14,12 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['5493405438423', '✎𝕹𝖆𝖐𝖆𝖓𝖔 - 𝕭𝖔𝖙', true],
-  ['5493405480284', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 𝖑𝖔𝖇𝖔✍︎', true],
-  ['5493405480284'],
-  ['5493405480284'],
-  ['5493405480284'],
-  ['5493405480284']
+  ['526748616996', '✎𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻', true],
+  ['584248778828', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 𝑲𝑰𝑵𝑮◉‿◉', true],
+  ['584248778828'],
+  ['584248778828'],
+  ['584248778828'],
+  ['584248778828']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
@@ -30,17 +30,17 @@ global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ✎𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝`
-global.author = `♾━━━━━━━━\n⇝͟͞ ۵𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 𝖑𝖔𝖇𝖔❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙❁༯`;
+global.packname = ` ✎𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻`
+global.author = `♾━━━━━━━━\n⇝͟͞ ۵𝑫𝑹𝑨𝑲𝑶-𝑩𝑶𝑻⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 𝑲𝑰𝑵𝑮❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙❁༯`;
 global.wm = 'ꨄ𝙽𝚊𝚔𝚊𝚗𝚘 𝙱𝚘𝚝';
-global.titulowm = '✎𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝';
-global.titulowm2 = `𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝 𝚘𝚏𝚒𝚌𝚒𝚊𝚕`
-global.igfg = 'ꨄ𝙽𝚊𝚔𝚊𝚗𝚘'
-global.botname = '𝙱𝚘𝚝 𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚗𝚊𝚔𝚊𝚗𝚘࿐'
-global.dev = '🔥 Powered By 𝙻𝚘𝚋𝚘'
-global.textbot = ' 𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝࿐ : 𝙻𝚘𝚋𝚘✍︎'
-global.gt = '͟͞ ৎ𝙽𝚊𝚔𝚊𝚗𝚘⋰⋰𝙱𝚘𝚝';
-global.namechannel = '𝙲𝚊𝚗𝚊𝚕 𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚗𝚊𝚔𝚊𝚗𝚘/𝙻𝚘𝚋𝚘'
+global.titulowm = '✎𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻';
+global.titulowm2 = `𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻 𝑶𝑭𝑪`
+global.igfg = 'ꨄ𝑫𝑹𝑨𝑲𝑶'
+global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 𝑫𝑹𝑨𝑲𝑶࿐'
+global.dev = '🔥 Powered By 𝑲𝑰𝑵𝑮'
+global.textbot = ' 𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻࿐ : 𝑲𝑰𝑵𝑮✍︎'
+global.gt = '͟͞ ৎ𝑫𝑹𝑨𝑲𝑶⋰⋰𝑩𝑶𝑻';
+global.namechannel = '𝑪𝒂𝒏𝒂𝒍 𝑶𝑭𝒄 𝑫𝒓𝒂𝒌𝒐/𝑲𝒊𝒏𝒈'
 global.vs = '3.0.1'
 
 
@@ -96,15 +96,15 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS' //Grupo Oficial De Nakano
-global.gp1 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS'//
+global.gp4 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo Oficial De Nakano
+global.gp1 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'//
 global.comunidad1 = 'https://chat.whatsapp.com/Edih0ePD45VKCwmAbkretr' //Comunidad Nakano
-global.channel = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K' //Canal Oficial
+global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal Oficial
 global.yt = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' //Canal De Youtube
 global.md = 'https://github.com/LOBO50K/Nakano-bot-2.0.git' //Github Oficial
-global.correo = 'playperfect344@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K';
+global.correo = 'lugodiomar6@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -119,8 +119,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙽𝚊𝚔𝚊𝚗𝚘 - 𝙱𝚘𝚝`;
-global.nomorown = '5493405480284';
+global.wm2 = `${dia} ${fecha}\n𝑫𝒓𝒂𝒌𝒐 - 𝑩𝒐𝒕`;
+global.nomorown = '584248778828';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
