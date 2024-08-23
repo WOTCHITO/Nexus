@@ -1,11 +1,11 @@
 var handler  = async (m, { conn }) => {
 
-let texto = `🚩 *Instalación de Megumin-Bot-MD*
+let texto = `🚩 *𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒𝚘𝚗 𝚍𝚎 𝚗𝚊𝚔𝚊𝚗𝚘-𝚋𝚘𝚝*
 
 ⬡ Dudas: ${creador}
 ⬡ Tutoríal: *¡Pronto!*
 
-*Comandos de instalación via Termux ✏️*
+*𝙲𝚘𝚖𝚊𝚗𝚍𝚘𝚜 𝚟𝚒𝚊 𝚝𝚎𝚛𝚖𝚞𝚡 (𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒𝚘𝚗 𝚍𝚎𝚜𝚍𝚎 𝚝𝚎𝚛𝚖𝚞𝚡) ✏️*
 
 termux-setup-storage
 
@@ -13,7 +13,7 @@ apt-get update -y && apt-get upgrade -y
 
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-MD && yarn install && npm install 
+git clone https://github.com/LOBO50K/Nakano-bot-2.0.git && cd Nakano-2.0 && yarn install && npm install 
 
 ls
 
@@ -51,9 +51,9 @@ conn.sendMessage(m.chat, {image: {url: 'https://telegra.ph/file/c24470edcbe5e250
 }
 
 }
-handler.help = ['instalarmegumin']
+handler.help = ['instalarnakano']
 handler.tags = ['main']
-handler.command = ['instalarmegu','instalarbot','instalarmegumin']
+handler.command = ['instalarnaka','instalarbot','instalarnakano']
 
 export default handler
 
