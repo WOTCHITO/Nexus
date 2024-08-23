@@ -8,14 +8,14 @@ const handler = async (m, {conn}) => {
     await conn.sendMessage(m.chat, { react: { text: '🤠', key: m.key } })
     const str = `
 ┏✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧
-┃⍣ ✎𝕹𝖆𝖐𝖆𝖓𝖔 𝕭𝖔𝖙ꨄ
+┃⍣ ✎𝑫𝒓𝒂𝒌𝒐 𝑩𝒐𝒕ꨄ
 ┃
 ┃⍣👋🏻𝘏𝘰𝘭𝘢: ${taguser}
 ┃
 ┃⍣ *ꨄ︎ ⏳️ 𝕬𝖈𝖙𝖎𝖛𝖆:* ${uptime}
 ┃⍣ *ꨄ︎ ✅ 𝕭𝖔𝖙 𝖕𝖚𝖇𝖑𝖎𝖈𝖔*
-┃⍣ *ꨄ︎ 🦁 𝕺𝖜𝖓𝖊𝖗: 𝕷𝖔𝖇𝖔*
-┃⍣ *ꨄ︎ 🔗 𝕮𝖚𝖊𝖓𝖙𝖆𝖘 𝖔𝖋𝖎𝖈𝖎𝖆𝖑𝖊𝖘:* https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS
+┃⍣ *ꨄ︎ 🦁 𝕺𝖜𝖓𝖊𝖗: 𝑲𝒊𝒏𝒈*
+┃⍣ *ꨄ︎ 🔗 𝕮𝖚𝖊𝖓𝖙𝖆𝖘 𝖔𝖋𝖎𝖈𝖎𝖆𝖑𝖊𝖘:* https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW
 ╰✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧`.trim();
         const doc = [
     "pdf",
@@ -28,7 +28,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
     document: { url: `https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS` },
     mimetype: `application/${document}`,
-    fileName: `「 𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙💞 」`,
+    fileName: `「 𝑫𝒓𝒂𝒌𝒐-𝑩𝒐𝒕´･ᴗ･` 」`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
@@ -38,10 +38,10 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 showAdAttribution: !![],
             mediaType: 0x1,
             previewType: "PHOTO",
-        title: "𝕳𝖊𝖗𝖒𝖆𝖓𝖆𝖘 𝖓𝖆𝖐𝖆𝖓𝖔",
+        title: "𝕳𝖊𝖗𝖒𝖆𝖓𝖆𝖘 𝑫𝒓𝒂𝒌𝒐",
         thumbnail: imagen10,
         renderLargerThumbnail: !![],
-        sourceUrl: "https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS",
+        sourceUrl: "https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW",
       },
     },
     caption: str,
