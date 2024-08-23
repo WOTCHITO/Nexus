@@ -5,22 +5,22 @@ const handler = async (m, { conn }) => {
     const documents = [
       {
         title: "Grupo 1",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW",
         fileName: "Grupo 1 - WhatsApp"
       },
       {
         title: "Grupo 2",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW",
         fileName: "Grupo 2 - WhatsApp"
       },
       {
         title: "Grupo 3",
-        url: "https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn",
+        url: "https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW",
         fileName: "Grupo 3 - WhatsApp"
       },
       {
         title: "Canal Oficial",
-        url: "https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820",
+        url: "https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t",
         fileName: "Canal Oficial - WhatsApp"
       }
     ];
