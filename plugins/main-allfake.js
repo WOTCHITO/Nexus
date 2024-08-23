@@ -101,12 +101,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://telegra.ph/file/b02ec6680bdcc8d1780e3.jpg',
-'https://telegra.ph/file/822e414960322194e0751.jpg',
-'https://telegra.ph/file/2658ccf3444631c509e6a.jpg',
-'https://telegra.ph/file/c90be880ad6bc37af83a0.jpg',
-'https://telegra.ph/file/13da85514fa783bef18c7.jpg',
-'https://telegra.ph/file/ca33fef3ec68946e44b38.jpg'
+'https://telegra.ph/file/f98850ebc3e5020ce8639.jpg',
+'https://telegra.ph/file/c3e50fccc880b1af3dd42.jpg',
+'https://telegra.ph/file/1f5c93ce19f6393bb8c39.jpg',
+'https://telegra.ph/file/ba3e5571b336fae4e8fb5.jpg',
+'https://telegra.ph/file/f8ba0704663bec69d4f2b.jpg',
+'https://telegra.ph/file/fc1ca75d54f3b825983ea.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '💫 𝐁𝐨𝐭 𝐎𝐟𝐜 𝐃𝐫𝐚𝐤𝐨ꨄ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
