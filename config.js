@@ -24,7 +24,9 @@ global.owner = [
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = ['5351524614', '5218711426787', '', '', '']
+import ytmp44 from './lib/ytmp44.js'
 
+global.ytmp44 = ytmp44
 global.suittag = ['5351524614']
 global.prems = []
 
