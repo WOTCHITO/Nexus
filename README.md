@@ -1,13 +1,13 @@
 > 🚩 Versión Actual: 3.0.1
 
-## 💥 **`Megumin - Bot - MD`**
+## 💥 **`Drako - Bot`**
 ## 💥 **`El bot más explosivo de WhatsApp!`**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Megumin](https://telegra.ph/file/b8170842d84523340c674.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Diomar+King;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+![Drako](https://telegra.ph/file/166dc5e176a18120a1949.jpg)
 
 ---
 
-> **`AVISO`**: Megumin-Bot no funciona en la terminal (termux).
+> **`AVISO`**: Drako-Bot no funciona en la terminal (termux).
 > Estaremos arreglando el error de la bot para que se pueda instalar en la terminal (termux).
 
 > **`Megumin - Bot - MD`** es un super bot de WhatsApp con multi funciones.
@@ -57,7 +57,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-🍟 **`Megumin 24/7 (TERMUX)`**
+🍟 **`Drako 24/7 (TERMUX)`**
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
