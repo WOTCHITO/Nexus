@@ -32,7 +32,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-MD
+https://github.com/Diomar-s/Drako-king-12-.git
 ```
 ```bash
 yarn install && npm install
