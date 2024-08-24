@@ -45,14 +45,14 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Megumin-MD
+> cd Drako-MD
 > npm start
 ```
 
 🔥 **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Megumin-MD
+> cd Drako-MD
 > rm -rf MiniSession
 > npm start
 ```
@@ -62,12 +62,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-💥 **`ACTUALIZAR Megumin`**
+💥 **`ACTUALIZAR Drako`**
 > Note Comandos para actualizar Megumin-Bot de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/David-Chian/Megumin-Bot-MD/master/update.sh | bash
 ```
-Para que no pierda su progreso en Megumin, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+Para que no pierda su progreso en Drako, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 
@@ -121,7 +121,7 @@ Para que no pierda su progreso en Megumin, estos comandos realizarán un respald
 --- 
 
 ### `🔥 DESARROLLADORES`
-<a href="https://github.com/David-Chian/Megumin-Bot-MD/graphs/contributors">
+<a href="https://github.com/Diomar-s/Drako-king-12-.git">
 <img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
 </a>
 
