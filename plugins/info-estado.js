@@ -26,7 +26,7 @@ const handler = async (m, {conn}) => {
   ];
 const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/KM5pJJnApir7TgkCnVIIoS` },
+    document: { url: `https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW` },
     mimetype: `application/${document}`,
     fileName: `「 𝑫𝒓𝒂𝒌𝒐-𝑩𝒐𝒕´･ᴗ･` 」`,
     fileLength: 99999999999999,
