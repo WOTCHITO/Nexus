@@ -1,6 +1,6 @@
 /*
 
-- Agradecimiento a la comunidad de "WSApp • Developers"
+- Agradecimiento a la comunidad de "WSApp 鈥� Developers"
  * https://chat.whatsapp.com/FaQunmlp9BmDRk6lEEc9FJ
 - Agradecimiento especial a Carlos (PT) por los codigos de interactiveMessage (botones)
 - Agradecimiento a Darlyn1234 por la estructura de uso en este codigo y quoted
@@ -26,8 +26,8 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
   const datas = global;
   device = await getDevice(m.key.id);
 
-  if (!text) throw `*[ ℹ️ ] 𝐇𝐚𝐜𝐞 𝐟𝐚𝐥𝐭𝐚 𝐞𝐥 𝐭𝐢́𝐭𝐮𝐥𝐨 𝐝𝐞𝐥 𝐯𝐢𝐝𝐞𝐨 𝐝𝐞 𝐘𝐨𝐮𝐓𝐮𝐛𝐞.*\n\n*[ 💡 ] Ejemplo:* _${usedPrefix + command} Good Feeling - Flo Rida_\n\n[ 💡 ] Ejemplo 2:* _${usedPrefix + command} https://youtu.be/JLWRZ8eWyZo?si=EmeS9fJvS_OkDk7p_`;
-  if (command === 'playyt' && (device == 'desktop' || device == 'web')) throw `*[❗] Los mensajes de botones aun no estan disponibles en WhatsApp web, acceda a su celular para poder ver y usar los mensajes con botones.*`;
+  if (!text) throw `*[ 鈩癸笍 ] 饾悋饾悮饾悳饾悶 饾悷饾悮饾惀饾惌饾悮 饾悶饾惀 饾惌饾悽虂饾惌饾惍饾惀饾惃 饾悵饾悶饾惀 饾惎饾悽饾悵饾悶饾惃 饾悵饾悶 饾悩饾惃饾惍饾悡饾惍饾悰饾悶.*\n\n*[ 馃挕 ] Ejemplo:* _${usedPrefix + command} Good Feeling - Flo Rida_\n\n[ 馃挕 ] Ejemplo 2:* _${usedPrefix + command} https://youtu.be/JLWRZ8eWyZo?si=EmeS9fJvS_OkDk7p_`;
+  if (command === 'playyt' && (device == 'desktop' || device == 'web')) throw `*[鉂梋 Los mensajes de botones aun no estan disponibles en WhatsApp web, acceda a su celular para poder ver y usar los mensajes con botones.*`;
   if (enviando) return;
   enviando = true;
 
@@ -57,10 +57,10 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
 
     if (!success) {
       enviando = false;
-      throw `*[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
+      throw `*[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*`;
     }
 
-    const dataMessage = `_*< DESCARGAS - PLAY V2 />*_\n\n▢ *̶T̶í̶t̶u̶l̶o:* ${data.resultado.title}\n▢ *𝐏𝐮𝐛𝐥𝐢𝐜𝐚𝐝𝐨:* ${data.resultado.publicDate}\n▢ *𝐂𝐚𝐧𝐚𝐥:* ${data.resultado.channel}\n▢ *𝐕𝐢́𝐝𝐞𝐨 𝐔𝐑𝐋:* ${data.resultado.url}`.trim();  
+    const dataMessage = `_*< DESCARGAS - PLAY V2 />*_\n\n鈻� *潭T潭i虂潭t潭u潭l潭o:* ${data.resultado.title}\n鈻� *饾悘饾惍饾悰饾惀饾悽饾悳饾悮饾悵饾惃:* ${data.resultado.publicDate}\n鈻� *饾悅饾悮饾惂饾悮饾惀:* ${data.resultado.channel}\n鈻� *饾悤饾悽虂饾悵饾悶饾惃 饾悢饾悜饾悑:* ${data.resultado.url}`.trim();  
     if (!text.includes('SN@') && command !== 'playyt') await conn.sendMessage(m.chat, { text: dataMessage }, { quoted: m });      
       
     if (command === 'playyt') {
@@ -128,7 +128,7 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
 
         if (!success2) {
           enviando = false;
-          throw `[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
+          throw `[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*`;
         }
       } else if (command === 'play.2') {
         let apiUrls22 = [
@@ -156,13 +156,13 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
 
         if (!success2) {
           enviando = false;
-          throw `[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
+          throw `[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*`;
         }
       }
     } catch (ee) {
       console.log(ee.message)  
       enviando = false;
-      throw `[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
+      throw `[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*`;
     }
 
     if (buff) {
@@ -170,12 +170,12 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
       enviando = false;
     } else {
       enviando = false;
-      throw `[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
+      throw `[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*`;
     }
   } catch (error) {
     console.log(error);  
     enviando = false;
-    throw '[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*';
+    throw '[ 鈩癸笍 ] O潭c潭u潭r潭r潭i潭o虂 潭u潭n 潭e潭r潭r潭o潭r. 饾悘饾惃饾惈 饾悷饾悮饾惎饾惃饾惈, 饾悽饾惂饾惌饾悶虂饾惂饾惌饾悮饾惀饾惃 饾悵饾悶 饾惂饾惍饾悶饾惎饾惃 饾惁饾悮虂饾惉 饾惌饾悮饾惈饾悵饾悶.*';
   }
 };
 
