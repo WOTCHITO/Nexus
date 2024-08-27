@@ -31,7 +31,7 @@ const texto1 = `
 ├» ${yt_play[0].url}
 ╰ׁ̻۫─۪۬─۟─۪─۫─۪۬─۟─۪─۟─۪۬─۟─۪─۟─۪۬─۟─۪─۟┄۪۬┄۟┄۪┈۟┈۪`.trim()
 
-await conn.sendButton(m.chat, wm, texto1, yt_play[0].thumbnail, [['𝑴𝒆𝒏𝒖 💥', `${usedPrefix}menu`],['🔥✨ 𝑨𝑼𝑫𝑰𝑶 𝒀𝑻',`${usedPrefix}play5 ${yt_play[0].url}`],['✨ 𝑽𝑰𝑫𝑬𝑶 𝒀𝑻',`${usedPrefix}play6 ${yt_play[0].url}`]], null, null, fgif2)
+await conn.sendButton(m.chat, wm, texto1, yt_play[0].thumbnail, [['𝑴𝒆𝒏𝒖 💥', `${usedPrefix}menu`],['✨ 𝑨𝑼𝑫𝑰𝑶 𝒀𝑻',`${usedPrefix}play5 ${yt_play[0].url}`],['✨ 𝑽𝑰𝑫𝑬𝑶 𝒀𝑻',`${usedPrefix}play6 ${yt_play[0].url}`]], null, null, fgif2)
 } catch (e) {
 await conn.reply(m.chat, `*[ ! ] ʜᴜʙᴏ ᴜɴ ᴇʀʀᴏʀ ᴇɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ғᴀᴠᴏʀ ɪɴᴛᴇɴᴛᴀ ᴍᴀs ᴛᴀʀᴅᴇ..*`, fkontak, m, rcanal)
 console.log(`❗❗ᴇʀʀᴏʀ ${usedPrefix + command} ❗❗`)
