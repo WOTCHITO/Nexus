@@ -88,13 +88,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/EDER-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0099&width=435&lines=%F0%9F%92%96+AGRADECIMIENTOS+" alt="Typing SVG" /></a> 
-<a 
-href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Agradecimientos"/></a>
-<a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Agradecimientos"/></a>
-<a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="Agradecimientos"/></a>
+
 
 ### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=55FFE3&width=435&lines=%F0%9F%A7%B8+Mi+Creador" alt="Typing SVG" /></a>
 <a
