@@ -191,13 +191,13 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363323286489957@newsletter',
-      newsletterName: '⏤͟͞𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭๛𝐎𝐟𝐜࿐/✎⋰∴⋱𝐁𝐲 𝐊𝐢𝐧𝐠',
+      newsletterJid: '120363218713824827@newsletter',
+      newsletterName: '⏤͟͞APKMOD-๛𝐎𝐟𝐜࿐/✎⋰∴⋱𝐁𝐲 EDER',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '⏤͟͞ू𝐃𝐑𝐀𝐊𝐎-𝐁𝐎𝐓⋰⋰𝐁𝐲 𝐊𝐈𝐍𝐇✍︎࿐',
+      title: '⏤͟͞ूNEXUS-𝐁𝐎𝐓⋰⋰𝐁𝐲 EDER✍︎࿐',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
