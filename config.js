@@ -29,7 +29,7 @@ import ytmp33 from './lib/ytmp33.js'
 
 global.ytmp33 = ytmp33
 global.ytmp44 = ytmp44
-global.suittag = ['5351524614']
+global.suittag = ['573507594335']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
@@ -43,7 +43,7 @@ global.igfg = 'ꨄnexus'
 global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 nexus࿐'
 global.dev = '🔥 Powered By Eder'
 global.textbot = ' Nexus - 𝑩𝑶𝑻࿐ : Eder✍︎'
-global.gt = '͟͞ ৎ𝑫𝑹𝑨𝑲𝑶⋰⋰𝑩𝑶𝑻';
+global.gt = '͟͞ ৎEDER⋰⋰𝑩𝑶𝑻';
 global.namechannel = '𝑪𝒂𝒏𝒂𝒍 𝑶𝑭𝒄 Nexus/Eder'
 global.vs = '3.0.1'
 
