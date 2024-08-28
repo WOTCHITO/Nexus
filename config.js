@@ -104,11 +104,11 @@ global.gp4 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo Oficial 
 global.gp1 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo 
 global.gp2 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'//
 global.comunidad1 = 'https://chat.whatsapp.com/Edih0ePD45VKCwmAbkretr' //Comunidad Nakano
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal Oficial
+global.channel = 'https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D' //Canal Oficial
 global.yt = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' //Canal De Youtube
 global.md = 'https://github.com/Diomar-s/Drako-king-12-.git' //Github Oficial
 global.correo = 'lugodiomar6@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t';
+global.cn ='https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
