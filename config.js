@@ -46,8 +46,8 @@ global.vs = '3.0.2'
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/anime.jpg');
-//global.imagen3 = fs.readFileSync('./Menu3.jpg');
-global.imagen4 = fs.readFileSync('./Menu.jpg');
+global.imagen3 = fs.readFileSync('./Menu3.jpg');
+global.imagen4 = fs.readFileSync('./menu.jpg');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.jpg');
 global.imagen7 = fs.readFileSync('./Menu5.jpg');
