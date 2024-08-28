@@ -68,7 +68,7 @@ var canal = 'https://chat.whatsapp.com/LL3uSaxBPJl1DiOtmjnmsS'
 var git = 'https://github.com/David-Chian' 
 var youtube = 'https://youtube.com/@davidchian4957' 
 var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
-let correo = 'bastojorgue@gmail.com'
+let correo = 'maicolnico4@gmail.com'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
