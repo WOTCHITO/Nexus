@@ -23,13 +23,7 @@ global.owner = [
 ['573507594335']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['573507594335', '573183989834', '', '', '']
-import ytmp44 from './lib/ytmp44.js'
-import ytmp33 from './lib/ytmp33.js'
-
-global.ytmp33 = ytmp33
-global.ytmp44 = ytmp44
-global.suittag = ['573507594335']
+global.mods = []
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
