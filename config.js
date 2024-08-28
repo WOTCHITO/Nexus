@@ -34,17 +34,17 @@ global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ✎𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻`
+global.packname = ` ✎NEXUS - 𝑩𝑶𝑻`
 global.author = `♾━━━━━━━━\n⇝͟͞ ۵𝑫𝑹𝑨𝑲𝑶-𝑩𝑶𝑻⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 𝑲𝑰𝑵𝑮❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙❁༯`;
-global.wm = 'ꨄ𝐃𝐫𝐚𝐤𝐨 𝐁𝐨𝐭';
-global.titulowm = '✎𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻';
-global.titulowm2 = `𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻 𝑶𝑭𝑪`
-global.igfg = 'ꨄ𝑫𝑹𝑨𝑲𝑶'
-global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 𝑫𝑹𝑨𝑲𝑶࿐'
-global.dev = '🔥 Powered By 𝑲𝑰𝑵𝑮'
-global.textbot = ' 𝑫𝑹𝑨𝑲𝑶 - 𝑩𝑶𝑻࿐ : 𝑲𝑰𝑵𝑮✍︎'
+global.wm = 'ꨄnexus 𝐁𝐨𝐭';
+global.titulowm = '✎nexus - 𝑩𝑶𝑻';
+global.titulowm2 = `nexus - 𝑩𝑶𝑻 𝑶𝑭𝑪`
+global.igfg = 'ꨄnexus'
+global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 nexus࿐'
+global.dev = '🔥 Powered By Eder'
+global.textbot = ' Nexus - 𝑩𝑶𝑻࿐ : Eder✍︎'
 global.gt = '͟͞ ৎ𝑫𝑹𝑨𝑲𝑶⋰⋰𝑩𝑶𝑻';
-global.namechannel = '𝑪𝒂𝒏𝒂𝒍 𝑶𝑭𝒄 𝑫𝒓𝒂𝒌𝒐/𝑲𝒊𝒏𝒈'
+global.namechannel = '𝑪𝒂𝒏𝒂𝒍 𝑶𝑭𝒄 Nexus/Eder'
 global.vs = '3.0.1'
 
 
