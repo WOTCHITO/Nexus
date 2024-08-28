@@ -63,12 +63,12 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝐒𝐨𝐲 𝐥𝐞𝐧𝐭𝐨 ...*';
 
 //Enlaces
-var grupo = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'
-var canal = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'  
+var grupo = 'https://chat.whatsapp.com/LL3uSaxBPJl1DiOtmjnmsS'
+var canal = 'https://chat.whatsapp.com/LL3uSaxBPJl1DiOtmjnmsS'  
 var git = 'https://github.com/David-Chian' 
 var youtube = 'https://youtube.com/@davidchian4957' 
 var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
-let correo = 'noisebot40@gmail.com'
+let correo = 'bastojorgue@gmail.com'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
