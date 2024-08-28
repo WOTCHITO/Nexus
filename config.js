@@ -28,7 +28,7 @@ global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ✎NEXUS - 𝑩𝑶𝑻`
+global.packname = `✎NEXUS - 𝑩𝑶𝑻`
 global.author = '♾━━━━━━━━\n⇝͟͞ ۵Nexus-𝑩𝑶𝑻⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 Eder❄︎'
 global.wm = 'ꨄnexus 𝐁𝐨𝐭';
 global.titulowm = '✎nexus - 𝑩𝑶𝑻';
@@ -36,8 +36,8 @@ global.titulowm2 = `nexus - 𝑩𝑶𝑻 𝑶𝑭𝑪`
 global.igfg = 'ꨄnexus'
 global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 nexus࿐'
 global.dev = '🔥 Powered By Eder'
-global.textbot = ' Nexus - 𝑩𝑶𝑻࿐ : Eder✍︎'
-global.gt = '͟͞ ৎEDER⋰⋰𝑩𝑶𝑻';
+global.textbot = 'Nexus - 𝑩𝑶𝑻࿐ : Eder✍︎'
+global.gt = ' ৎEDER⋰⋰𝑩𝑶𝑻';
 global.namechannel = '𝑪𝒂𝒏𝒂𝒍 𝑶𝑭𝒄 Nexus/Eder'
 global.vs = '3.0.1'
 
