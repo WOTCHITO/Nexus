@@ -105,7 +105,7 @@ global.gp1 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo
 global.gp2 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'//
 global.comunidad1 = 'https://chat.whatsapp.com/Edih0ePD45VKCwmAbkretr' //Comunidad Nakano
 global.channel = 'https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D' //Canal Oficial
-global.yt = 'https://www.youtube.com/@LOBO_RANDOMOFICIAL' //Canal De Youtube
+global.yt = 'https://youtube.com/@nexuss-bot?si=oiEtEYkYKGkEBtai' //Canal De Youtube
 global.md = 'https://github.com/Diomar-s/Drako-king-12-.git' //Github Oficial
 global.correo = 'lugodiomar6@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D';
