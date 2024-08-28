@@ -2,7 +2,7 @@ import moment from 'moment-timezone'
 import fetch from 'node-fetch'
 
 let handler = async (m, { conn, args }) => {
-let res = await fetch('https://github.com/David-Chian/Megumin-Bot-MD')
+let res = await fetch('https://github.com/WOTCHITO/Nexus')
 let json = await res.json()
 try {
 let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
@@ -13,13 +13,13 @@ let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
     txt += `✩  *Url* : ${json.html_url}\n`
     txt += `✩  *Forks* : ${json.forks_count}\n`
     txt += `✩  *Stars* : ${json.stargazers_count}\n\n`
-    txt += `> 🍟 *${packname}*`
+    txt += `> *${packname}*`
 
 let img = imagen1
 
-await conn.sendMini(m.chat, packname, wm, txt, img, img, redes, fkontak)
+await conn.sendMini(m.chat, packname, dev, txt, img, img, channel, fkontak)
 } catch {
-await m.react(error)
+// await m.react(error)
 }}
 handler.help = ['script']
 handler.tags = ['main']
