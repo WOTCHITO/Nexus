@@ -34,7 +34,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //creador y otros
 global.creador = 'Wa.me/573507594335'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/584248778828'
+global.asistencia = 'Wa.me/573507594335'
 global.namechannel = ' NEXUS-𝐁𝐨𝐭࿐/✰✎EDERꨄ'
 global.namechannel2 = ' 𝚃𝙴𝙰𝙼-NEXUS '
 global.namegrupo = 'NEXUS 𝐎𝐅𝐂'
