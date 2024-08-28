@@ -35,7 +35,7 @@ global.prems = []
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = ` ✎NEXUS - 𝑩𝑶𝑻`
-global.author = `♾━━━━━━━━\n⇝͟͞ ۵𝑫𝑹𝑨𝑲𝑶-𝑩𝑶𝑻⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 𝑲𝑰𝑵𝑮❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝕹𝖆𝖐𝖆𝖓𝖔-𝕭𝖔𝖙❁༯`;
+global.author = `♾━━━━━━━━\n⇝͟͞ ۵Nexus-𝑩𝑶𝑻⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 Eder❄︎
 global.wm = 'ꨄnexus 𝐁𝐨𝐭';
 global.titulowm = '✎nexus - 𝑩𝑶𝑻';
 global.titulowm2 = `nexus - 𝑩𝑶𝑻 𝑶𝑭𝑪`
