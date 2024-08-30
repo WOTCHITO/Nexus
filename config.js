@@ -17,7 +17,6 @@ global.owner = [
 ['573183989834', '✎NEXUS - 𝑩𝑶𝑻', true],
 ['573507594335', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 EDER◉‿◉', true],
 ['573012482597', '𝐃𝐞𝐯 DɪEɢO ♡´･ᴗ･`♡', true],
-['595975655723', '⏤͟͟͞͞𝐆𝐚𝐛𝐫𝐢𝐞𝐥𝐕𝐳𒈒', true],
 ['595975655723'],
 ['573507594335'],
 ['595975655723'],
@@ -37,11 +36,11 @@ global.author = `𝐄𝐝𝐞𝐫`;
 global.wm = '𝐍𝐞𝐱𝐮𝐬𝐁𝐨𝐭-𝐌𝐃';
 global.igfg = '𝐍𝐞𝐱𝐮𝐬𝐁𝐨𝐭 : 𝐄𝐝𝐞𝐫𝐉𝐬'
 global.botname = 'Nexus - Bot - MD'
-global.dev = '✰ Powered By: Sunlight Team ✰'
+global.dev = '🚩 Powered By: Sunlight Team'
 global.textbot = 'Nexus By: Eder'
 global.gt = 'NexusBot';
 global.namechannel = 'Channel - Nexus'
-global.vs = '2.0.2'
+global.vs = '3.0.2'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
