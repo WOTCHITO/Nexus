@@ -17,6 +17,7 @@ global.owner = [
 ['573183989834', '✎NEXUS - 𝑩𝑶𝑻', true],
 ['573507594335', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 EDER◉‿◉', true],
 ['573012482597', '𝐃𝐞𝐯 DɪEɢO ♡´･ᴗ･`♡', true],
+['595975655723', '⏤͟͟͞͞𝐆𝐚𝐛𝐫𝐢𝐞𝐥𝐕𝐳𒈒', true],
 ['595975655723'],
 ['573507594335'],
 ['595975655723'],
@@ -32,15 +33,15 @@ global.isBaileysFail = false
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `💫 Nexus Bot - MD`
-global.author = `Eder`;
-global.wm = 'NexusBot';
-global.igfg = 'ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸'
+global.author = `𝐄𝐝𝐞𝐫`;
+global.wm = '𝐍𝐞𝐱𝐮𝐬𝐁𝐨𝐭-𝐌𝐃';
+global.igfg = '𝐍𝐞𝐱𝐮𝐬𝐁𝐨𝐭 : 𝐄𝐝𝐞𝐫𝐉𝐬'
 global.botname = 'Nexus - Bot - MD'
-global.dev = '🔥 Powered By Sunlight Team ⚡︎'
+global.dev = '✰ Powered By: Sunlight Team ✰'
 global.textbot = 'Nexus By: Eder'
 global.gt = 'NexusBot';
-global.namechannel = 'Channel Nexus'
-global.vs = '3.0.2'
+global.namechannel = 'Channel - Nexus'
+global.vs = '2.0.2'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -84,13 +85,13 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Nexus', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Megumin', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕✨', jpegThumbnail: logo5 }}};
+global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'NexusBot-MD', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐄𝐝𝐞𝐫𝐉𝐬', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Megumin', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'NexusBot-MD', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐄𝐝𝐞𝐫𝐉𝐬', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Megumin', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐒𝐭𝐢𝐜𝐤𝐞𝐫 (^_^♪) 💥', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'NexusBot-MD', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐄𝐝𝐞𝐫𝐉𝐬', jpegThumbnail: logo5 }}};
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `NexusBot`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`𒆜⏤͟͟͞͞𝐄𝐝𝐞𝐫 : 𝐍𝐞𝐱𝐮𝐬𝐁𝐨𝐭-𝐌𝐃𒈒`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `NexusBot`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = ''
@@ -543,3 +544,6 @@ watchFile(file, () => {
   console.log(chalk.redBright('Update \'config.js\''));
   import(`${file}?update=${Date.now()}`);
 });
+
+// By: David-Chian (@David-Chian) * (https://github.com/David-Chian) 
+// Ante de todo aclaramos que este bot es una base modificada de megumin-bot y dejamos creditos al respectivo creador
