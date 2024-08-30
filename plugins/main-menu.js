@@ -31,17 +31,17 @@ let tags = {
 
 const defaultMenu = {
   before: `.........․⁀⸱⁀⸱︵⸌⸃૰⳹․EDER․⳼૰⸂⸍︵⸱⁀⸱⁀․........
-𔓕꯭  ꯭ 𓏲꯭֟፝੭ ꨄ NEXUS - EDER ꨄ 𓏲꯭֟፝੭ ꯭  ꯭𔓕
+𔓕꯭  ꯭ 𓏲꯭֟፝੭ ꨄ 🄽🄴🅇🅄🅂 - 🄴🄳🄴🅁 ꨄ 𓏲꯭֟፝੭ ꯭  ꯭𔓕
 ▬͞▭͞▬͞▭͞▬͞▭͞▬͞▭͞▬͞▭͞▬͞▭͞▬͞▭͞▬͞▭
 
-“ 𝚑𝚘𝚕𝚊 𝚌𝚘𝚖𝚘 𝚎𝚜𝚝𝚊𝚜 𝚎𝚕 𝚍𝚒𝚊 𝚍𝚎 𝚑𝚘𝚢 *%name* 𝚂𝚘𝚢 *Nexus-𝐁𝐨𝐭*, %greeting ”
+“ ¡hola!, ¿como estas? *%name*, soy *NexusBot-MD*, %greeting ”
 
 .    ╭─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍧⃘⃪۪֟፝֯۫۫۫۬◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╮
 ╭╼☁️⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪ 🄼🄴🄽🅄-🄱🄾🅃໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪☁️
 ┃֪࣪  ╰─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍧⃘⃪۪֟፝֯۫۫۫۬◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈𝐊𝐈𝐍𝐆
 ├ׁ̟̇❍✎ *🄲ʀᴇᴀᴅᴏʀ:* Eder
 ├ׁ̟̇❍✎ *🄼ᴏᴅᴏ:* Público
-├ׁ̟̇❍✎ *🄱ᴀɪʟᴇʏs:* Multi Device
+├ׁ̟̇❍✎ *🄱ᴀɪʟᴇʏs:* 6.7.7
 ├ׁ̟̇❍✎ *🅃ɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:* %muptime
 ├ׁ̟̇❍✎ *🅄sᴜᴀʀɪᴏs:* %totalreg
 ╚▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬▭╝
@@ -153,7 +153,7 @@ npmdesc: _package.description,
 version: _package.version,
 exp: exp - min,
 maxexp: xp,
-botofc: (conn.user.jid == global.conn.user.jid ? '🚩 𝙴𝚂𝚃𝙴 𝙴𝚂 𝙴𝙻 𝙱𝙾𝚃 𝙾𝙵𝙲' : `🚩 𝚂𝚄𝙱-𝙱𝙾𝚃 𝙳𝙴: Wa.me/${global.conn.user.jid.split`@`[0]}`), 
+botofc: (conn.user.jid == global.conn.user.jid ? '✨ 𝙴𝚂𝚃𝙴 𝙴𝚂 𝙴𝙻 𝙱𝙾𝚃 𝙾𝙵𝙲' : `✨ 𝚂𝚄𝙱-𝙱𝙾𝚃 𝙳𝙴: Wa.me/${global.conn.user.jid.split`@`[0]}`), 
 totalexp: exp,
 xp4levelup: max - exp,
 github: _package.homepage ? _package.homepage.url || _package.homepage : '[unknown github url]',
@@ -180,7 +180,7 @@ const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegr
 
 // await conn.reply(m.chat, '🍟 Enviando el menú.....', m, rcanal)
 
-await m.react('🪄') 
+await m.react('✨') 
 
 //await conn.sendFile(m.chat, imagen1, 'yaemori.jpg', text.trim(), fkontak, null, rcanal)
 
@@ -192,12 +192,12 @@ await conn.sendMessage(
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363218713824827@newsletter',
-      newsletterName: '⏤͟͞APKMOD-๛𝐎𝐟𝐜࿐/✎⋰∴⋱𝐁𝐲 EDER',
+      newsletterName: '⏤͟͞𝐀𝐏𝐊𝐌𝐎𝐃𝐒๛𝐎𝐅𝐂࿐/✎⋰∴⋱𝐁𝐲 𝐄𝐝𝐞𝐫𝐉𝐬',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '⏤͟͞ूNEXUS-𝐁𝐎𝐓⋰⋰𝐁𝐲 EDER✍︎࿐',
+      title: '⏤͟͞ू𝐍𝐄𝐗𝐔𝐒-𝐁𝐎𝐓⋰⋰𝐁𝐲 𝐄𝐝𝐞𝐫𝐉𝐬✍︎࿐',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
@@ -210,7 +210,7 @@ await conn.sendMessage(
   { quoted: fkontak })
 
   } catch (e) {
-    conn.reply(m.chat, '🔵 Lo sentimos, el menú tiene un error', m, rcanal, )
+    conn.reply(m.chat, '❀ Lo sentimos, el menú tiene un error', m, rcanal, )
     throw e
   }
 }
