@@ -29,7 +29,7 @@ const handler = async (m, { conn, command, args, text, usedPrefix }) => {
 
   const externalAdReply = {
     title: '♡  ͜ ۬︵࣪᷼⏜݊᷼𝘿𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙨⏜࣪᷼︵۬ ͜ ',
-    body: '<(✿◠‿◠)> 𝐃𝐑𝐀𝐊𝐎🔱',
+    body: '<(✿◠‿◠)> NEXUS🔱',
     sourceUrl: global.cn,
     thumbnail: global.logo7
   };
