@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
         },
         message: {
             videoMessage: { 
-                title: '𝙽𝚊𝚔𝚊𝚗𝚘', 
+                title: 'Nexus', 
                 h: `Hmm`,
                 seconds: '99999', 
                 gifPlayback: true, 
@@ -20,7 +20,7 @@ let handler = async (m, { conn }) => {
     };
 
     let groupMetadata = await conn.groupMetadata(m.chat);
-    let str = `𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨𝐬 𝐚𝐥 𝐠𝐫𝐮𝐩𝐨\n${groupMetadata.subject}\n𝐄𝐬𝐩𝐞𝐫𝐚𝐦𝐨𝐬 𝐪𝐮𝐞 𝐥𝐨 𝐩𝐚𝐬𝐞𝐬 𝐛𝐢𝐞𝐧 𝐲 𝐪𝐮𝐞 𝐩𝐨𝐫 𝐟𝐚𝐯𝐨𝐫 𝐥𝐞𝐚𝐬 𝐥𝐚𝐬 𝐫𝐞𝐠𝐥𝐚𝐬.\n> ৎ𝙽𝚊𝚔𝚊𝚗𝚘-𝙱𝚘𝚝-`.trim();
+    let str = `𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨𝐬 𝐚𝐥 𝐠𝐫𝐮𝐩𝐨\n${groupMetadata.subject}\n𝐄𝐬𝐩𝐞𝐫𝐚𝐦𝐨𝐬 𝐪𝐮𝐞 𝐥𝐨 𝐩𝐚𝐬𝐞𝐬 𝐛𝐢𝐞𝐧 𝐲 𝐪𝐮𝐞 𝐩𝐨𝐫 𝐟𝐚𝐯𝐨𝐫 𝐥𝐞𝐚𝐬 𝐥𝐚𝐬 𝐫𝐞𝐠𝐥𝐚𝐬.\n> ৎNexus-𝙱𝚘𝚝-`.trim();
 
     if (m.isGroup) {
         let pp = 'https://telegra.ph/file/7fd4704069be9400fef8e.mp4';
