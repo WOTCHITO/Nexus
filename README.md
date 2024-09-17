@@ -35,7 +35,7 @@ apt-get update -y && apt-get upgrade -y
 ```
 
 ```bash
-git clone https://github.com/WOTCHITO/NexusBot-MD.git && cd NexusBot-MD
+git clone https://github.com/WOTCHITO/Nexus.git && cd Nexus
 ```
 
 ```bash
