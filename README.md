@@ -69,18 +69,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf NexusSession
 > npm start
 ```
-### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=1A11F7&width=435&lines=%F0%9F%94%B5+OLYMPUS-HOST+%F0%9F%94%B5" alt="Typing SVG" /></a> 
-<a href="https://dash.olympus-host.xyz"><img src="https://qu.ax/waCu.jpg" height="125px"></a>
 
-### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0026FF&width=435&lines=Informaci%C3%B3n+del+Host" alt="Typing SVG" /></a>
-
-• Dashboard: [`Aquí`](https://dash.olympus-host.xyz)
-
-• Panel: [`Aquí`](https://panel.olympus-host.xyz)
-
-• Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029ValCkNT2ER6gHWFRQ71J)
-
-• Correo: [`Aquí`](olympushost2@gmail.com.com)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - Nexus bot**</summary><img src="https://telegra.ph/file/df9e39ea02ef177ac5194.jpg"></details>
 
