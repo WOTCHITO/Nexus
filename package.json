@@ -9,14 +9,16 @@
     "src": "src",
     "plugins": "plugins"
   },
-  "scripts": {
+"scripts": {
     "start": "node index.js",
     "qr": "node index.js qr",
     "code": "node index.js code",
+    "test": "node test.js",
+    "test2": "nodemon index.js", 
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
-  },
-  "homepage": "https://github.com/David-Chian/Megumin-Bot-MD",
+   },
+ "homepage": "https://github.com/David-Chian/Megumin-Bot-MD",
   "author": {
     "name": "David-Chian"
   },
